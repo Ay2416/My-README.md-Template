@@ -1,4 +1,4 @@
-# My-README.md-Template
+# Template
 
 ## Download
 [Click](https://github.com/Ay2416/My-README.md-Template/archive/refs/heads/main.zip)
